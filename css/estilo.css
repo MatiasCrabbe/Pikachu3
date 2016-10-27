@@ -1,0 +1,21 @@
+#juego {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    background-color: #ff2f2f;
+}
+
+.pieza {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-position: center center;
+    background-size: cover;
+    background-color: blue;
+    border: 0.5px solid black;
+}
+
+body {
+    background-image: url("http://img12.deviantart.net/f63c/i/2013/178/0/7/wallpaper__pikachu_by_someelixer-d6azvh6.png");
+    background-size: 100%;
+}
